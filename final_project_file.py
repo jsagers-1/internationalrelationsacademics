@@ -1,7 +1,7 @@
 ## Project Members: Jacob Sagers, Zola Racklin, and Samara Shaz
-## Code Description: The following code below includes a webscraper to scrape rankings from our first rankings 
-## website, a crawler to go through its pages, and the unfinished code to crawl our second rankings data.
-## AI USE: AI was used to help decipher coding error messages and to determine which line the problem was occuring in.
+## Code Description: The following code below includes a webscraper to dynamically scrape rankings from our first rankings website,
+## and the unfinished code to crawl our second rankings data.
+## AI USE: AI was used to help decipher coding error messages with Selenium.
 
 ## import necessary libraries
 from bs4 import BeautifulSoup as bs 
@@ -21,17 +21,17 @@ def rankings_scraper(starting_url, filename):
     
     Inputs:
     starting_url: a url that links to the Shanghai University website page to be scraped.
-    limiting_url: a broader url to limit the web crawler before scraping.
     filname: the desired filename for the csv file represented as a string.
 
     Output: 
-    a csv file containing the list of dictionaries
+    a dataframe containing the list of dictionaries
     '''
+
     header = { "User-Agent" : "Practice Scraper for educational project @jsagers@uchicago.edu" } 
     ##create a list to store dictionaries
     univ_lst = []
     shanghai_response = requests.get(starting_url, headers = header)
-        #check the requests code
+    #check the requests code
     print("Our response code is:", shanghai_response.status_code)
 
     #use selenium's webdriver to scroll through the pages of interest.
