@@ -1,0 +1,501 @@
+University,Country,Ranking
+University of Chicago,United States,1
+Harvard University,United States,2
+Massachusetts Institute of Technology (MIT),United States,3
+Stanford University,United States,4
+"University of California, Berkeley",United States,5
+Columbia University,United States,6
+Yale University,United States,7
+Princeton University,United States,8
+London School of Economics and Political Science,United Kingdom,9
+New York University,United States,10
+Northwestern University,United States,11
+"University of California, Los Angeles",United States,12
+University of Oxford,United Kingdom,13
+"University of California, San Diego",United States,14
+University of Pennsylvania,United States,15
+Toulouse Capitole University,France,16
+University of Cambridge,United Kingdom,17
+Washington University in St. Louis,United States,18
+University of Toronto,Canada,19
+Boston University,United States,20
+Duke University,United States,21
+"University of Minnesota, Twin Cities",United States,22
+National University of Singapore,Singapore,23
+University College London,United Kingdom,24
+Arizona State University,United States,25
+"University of Maryland, College Park",United States,26
+University of Zurich,Switzerland,27
+Brown University,United States,28
+Cornell University,United States,29
+University of Michigan-Ann Arbor,United States,30
+"University of California, Davis",United States,31
+Bocconi University,Italy,32
+Peking University,China,33
+University of Wisconsin - Madison,United States,34
+The Australian National University,Australia,35
+Dartmouth College,United States,36
+The University of Texas at Austin,United States,37
+Indiana University Bloomington,United States,38
+"University of California, Santa Barbara",United States,39
+University of Warwick,United Kingdom,40
+University of Bonn,Germany,41
+Monash University,Australia,42
+University of Southern California,United States,43
+The University of Melbourne,Australia,44
+Boston College,United States,45
+Pompeu Fabra University,Spain,46
+London Business School,United Kingdom,47
+University of British Columbia,Canada,48
+Erasmus University Rotterdam,Netherlands,49
+Queen Mary University of London,United Kingdom,50
+Aarhus University,Denmark,51-75
+Carnegie Mellon University,United States,51-75
+ETH Zurich,Switzerland,51-75
+Fudan University,China,51-75
+George Mason University,United States,51-75
+Georgetown University,United States,51-75
+Imperial College London,United Kingdom,51-75
+KU Leuven,Belgium,51-75
+Pennsylvania State University - University Park,United States,51-75
+The Hebrew University of Jerusalem,Israel,51-75
+The Ohio State University - Columbus,United States,51-75
+The University of Hong Kong,"Hong Kong, China",51-75
+The University of Manchester,United Kingdom,51-75
+The University of Tokyo,Japan,51-75
+Tilburg University,Netherlands,51-75
+Tsinghua University,China,51-75
+University of Essex,United Kingdom,51-75
+University of Groningen,Netherlands,51-75
+University of Illinois at Urbana-Champaign,United States,51-75
+University of Sussex,United Kingdom,51-75
+University of Sydney,Australia,51-75
+University of Washington,United States,51-75
+Utrecht University,Netherlands,51-75
+Vrije Universiteit Amsterdam,Netherlands,51-75
+Xiamen University,China,51-75
+Catholic University of the Sacred Heart,Italy,76-100
+Copenhagen Business School,Denmark,76-100
+European University Institute,Italy,76-100
+Johns Hopkins University,United States,76-100
+Michigan State University,United States,76-100
+Paris Institute of Political Studies,France,76-100
+Paris School of Economics,France,76-100
+Purdue University - West Lafayette,United States,76-100
+Renmin University of China,China,76-100
+Southwestern University of Finance and Economics,China,76-100
+Stockholm University,Sweden,76-100
+The Chinese University of Hong Kong,"Hong Kong, China",76-100
+The George Washington University,United States,76-100
+University of Amsterdam,Netherlands,76-100
+University of Birmingham,United Kingdom,76-100
+University of Bristol,United Kingdom,76-100
+"University of California, Irvine",United States,76-100
+University of Copenhagen,Denmark,76-100
+University of Goettingen,Germany,76-100
+University of International Business and Economics,China,76-100
+University of Leeds,United Kingdom,76-100
+University of Munich,Germany,76-100
+University of North Carolina at Chapel Hill,United States,76-100
+University of York,United Kingdom,76-100
+Vienna University of Economics and Business,Austria,76-100
+Beihang University,China,101-150
+Catholic University of Louvain,Belgium,101-150
+Central University of Finance and Economics,China,101-150
+"City, University of London",United Kingdom,101-150
+Emory University,United States,101-150
+Goethe University Frankfurt,Germany,101-150
+Griffith University,Australia,101-150
+HEC Paris,France,101-150
+Heidelberg University,Germany,101-150
+King's College London,United Kingdom,101-150
+Lancaster University,United Kingdom,101-150
+Luiss Guido Carli,Italy,101-150
+Lund University,Sweden,101-150
+Maastricht University,Netherlands,101-150
+National Taiwan University,"Taiwan, China",101-150
+Rice University,United States,101-150
+Seoul National University,South Korea,101-150
+Shanghai Jiao Tong University,China,101-150
+Shanghai University of Finance and Economics,China,101-150
+Singapore Management University,Singapore,101-150
+Stockholm School of Economics,Sweden,101-150
+Sunway University,Malaysia,101-150
+Texas A&M University,United States,101-150
+The Hong Kong Polytechnic University,"Hong Kong, China",101-150
+The Hong Kong University of Science and Technology,"Hong Kong, China",101-150
+The University of Edinburgh,United Kingdom,101-150
+The University of Georgia,United States,101-150
+The University of Glasgow,United Kingdom,101-150
+The University of New South Wales,Australia,101-150
+The University of Queensland,Australia,101-150
+University College Dublin,Ireland,101-150
+University of Bologna,Italy,101-150
+University of Exeter,United Kingdom,101-150
+University of Florida,United States,101-150
+University of Geneva,Switzerland,101-150
+University of Kentucky,United States,101-150
+University of Lisbon,Portugal,101-150
+University of Montreal,Canada,101-150
+University of Notre Dame,United States,101-150
+University of Nottingham,United Kingdom,101-150
+University of Ottawa,Canada,101-150
+University of Pretoria,South Africa,101-150
+University of Rochester,United States,101-150
+University of Turin,Italy,101-150
+University of Utah,United States,101-150
+University of Virginia,United States,101-150
+Vanderbilt University,United States,101-150
+Wageningen University & Research,Netherlands,101-150
+Western University,Canada,101-150
+Zhejiang University,China,101-150
+Barcelona School of Economics,Spain,151-200
+Beijing Institute of Technology,China,151-200
+Bielefeld University,Germany,151-200
+Carlos III University of Madrid,Spain,151-200
+Central European University,Austria,151-200
+City University of Hong Kong,"Hong Kong, China",151-200
+Curtin University,Australia,151-200
+Delft University of Technology,Netherlands,151-200
+Free University Berlin,Germany,151-200
+Ghent University,Belgium,151-200
+Hitotsubashi University,Japan,151-200
+Huazhong University of Science and Technology,China,151-200
+Hunan University,China,151-200
+Institut polytechnique de Paris,France,151-200
+Jinan University,China,151-200
+Nankai University,China,151-200
+Nanyang Technological University,Singapore,151-200
+NHH - Norwegian School of Economics,Norway,151-200
+NOVA University Lisbon,Portugal,151-200
+Polytechnic University of Milan,Italy,151-200
+Pontifical Catholic University of Chile,Chile,151-200
+RMIT University,Australia,151-200
+Roma Tre University,Italy,151-200
+Southern Illinois University-Edwardsville,United States,151-200
+Technical University of Munich,Germany,151-200
+The University of Adelaide,Australia,151-200
+The University of Calgary,Canada,151-200
+The University of Sheffield,United Kingdom,151-200
+The University of Waikato,New Zealand,151-200
+The University of Western Australia,Australia,151-200
+Tongji University,China,151-200
+University of Arizona,United States,151-200
+University of Bern,Switzerland,151-200
+University of Cape Town,South Africa,151-200
+University of Chile,Chile,151-200
+University of Cologne,Germany,151-200
+University of Colorado at Boulder,United States,151-200
+University of Gothenburg,Sweden,151-200
+University of Mannheim,Germany,151-200
+University of Oslo,Norway,151-200
+University of Pittsburgh,United States,151-200
+University of Roma - Tor Vergata,Italy,151-200
+University of Surrey,United Kingdom,151-200
+University of Technology Sydney,Australia,151-200
+University of Tennessee - Knoxville,United States,151-200
+Uppsala University,Sweden,151-200
+Vilnius Gediminas Technical University,Lithuania,151-200
+Virginia Polytechnic Institute and State University,United States,151-200
+York University,Canada,151-200
+Zhongnan University of Economics and Law,China,151-200
+Aalto University,Finland,201-300
+Anhui University of Finance and Economics,China,201-300
+Autonomous University of Barcelona,Spain,201-300
+Beijing Jiaotong University,China,201-300
+Beijing Normal University,China,201-300
+BI Norwegian Business School,Norway,201-300
+Bilkent University,Turkey,201-300
+Brigham Young University,United States,201-300
+Ca' Foscari University of Venice,Italy,201-300
+California Institute of Technology,United States,201-300
+Capital University of Economics & Business,China,201-300
+Cardiff University,United Kingdom,201-300
+Carleton University,Canada,201-300
+Central South University,China,201-300
+Charles University in Prague,Czech Republic,201-300
+Claremont Graduate University,United States,201-300
+Clark University,United States,201-300
+Colorado State University,United States,201-300
+Dalian Maritime University,China,201-300
+Deakin University,Australia,201-300
+Drexel University,United States,201-300
+Fordham University,United States,201-300
+Frankfurt School of Finance and Management,Germany,201-300
+Georgia State University,United States,201-300
+Humboldt University of Berlin,Germany,201-300
+INSEAD,France,201-300
+IPAG Business School,France,201-300
+Karlsruhe Institute of Technology (KIT),Germany,201-300
+Kiel University,Germany,201-300
+Kobe University,Japan,201-300
+Kyoto University,Japan,201-300
+Lebanese American University,Lebanon,201-300
+Leibniz University Hannover,Germany,201-300
+Loughborough University,United Kingdom,201-300
+Macquarie University,Australia,201-300
+McGill University,Canada,201-300
+Montpellier Business School,France,201-300
+Nanchang University,China,201-300
+Nanjing Audit University,China,201-300
+Nanjing University,China,201-300
+Nanjing University of Aeronautics and Astronautics,China,201-300
+Nanjing University of Finance & Economics,China,201-300
+New York University Abu Dhabi,United Arab Emirates,201-300
+Newcastle University,United Kingdom,201-300
+North Carolina State University - Raleigh,United States,201-300
+PSL University,France,201-300
+Queen's University,Canada,201-300
+Queensland University of Technology,Australia,201-300
+"Rutgers, The State University of New Jersey - New Brunswick",United States,201-300
+San Diego State University,United States,201-300
+Sapienza University of Rome,Italy,201-300
+Shandong University,China,201-300
+Shanghai Lixin University of Accounting and Finance,China,201-300
+Sichuan University,China,201-300
+Southeast University,China,201-300
+Southern Methodist University,United States,201-300
+Southwest Jiaotong University,China,201-300
+Sun Yat-sen University,China,201-300
+Syracuse University,United States,201-300
+Technical University of Denmark,Denmark,201-300
+Tel Aviv University,Israel,201-300
+"The Chinese University of Hong Kong, Shenzhen",China,201-300
+The University of Reading,United Kingdom,201-300
+Tianjin University,China,201-300
+Tokai University,Japan,201-300
+Trinity College Dublin,Ireland,201-300
+Tufts University,United States,201-300
+Università Della Svizzera Italiana,Switzerland,201-300
+Université libre de Bruxelles (ULB),Belgium,201-300
+Université Paris Cité,France,201-300
+"University at Buffalo, the State University of New York",United States,201-300
+University of Agder,Norway,201-300
+University of Alberta,Canada,201-300
+University of Basel,Switzerland,201-300
+University of Bath,United Kingdom,201-300
+"University of California, Santa Cruz",United States,201-300
+University of Castilla–La Mancha,Spain,201-300
+University of Connecticut,United States,201-300
+University of Delaware,United States,201-300
+University of East Anglia,United Kingdom,201-300
+University of Economics Ho Chi Minh City,Vietnam,201-300
+University of Graz,Austria,201-300
+University of Helsinki,Finland,201-300
+University of Illinois at Chicago,United States,201-300
+University of Iowa,United States,201-300
+University of Lausanne,Switzerland,201-300
+University of Luxembourg,Luxembourg,201-300
+University of Massachusetts Amherst,United States,201-300
+University of Milan,Italy,201-300
+University of Navarra,Spain,201-300
+University of Nebraska - Lincoln,United States,201-300
+University of Oregon,United States,201-300
+University of South Australia,Australia,201-300
+University of St. Gallen,Switzerland,201-300
+University of Stavanger,Norway,201-300
+University of Vienna,Austria,201-300
+Waseda University,Japan,201-300
+Wuhan University,China,201-300
+Xi'an Jiaotong University,China,201-300
+Yonsei University,South Korea,201-300
+Aix Marseille University,France,301-400
+American University,United States,301-400
+Berlin School of Economics and Law,Germany,301-400
+"Birkbeck, University of London",United Kingdom,301-400
+Bucharest University of Economic Studies,Romania,301-400
+Chalmers University of Technology,Sweden,301-400
+Chang'an University,China,301-400
+China University of Mining and Technology,China,301-400
+Chongqing University,China,301-400
+Clemson University,United States,301-400
+Dalian University of Technology,China,301-400
+Durham University,United Kingdom,301-400
+East China Normal University,China,301-400
+East China University of Science and Technology,China,301-400
+Eindhoven University of Technology,Netherlands,301-400
+Goldsmiths' College,United Kingdom,301-400
+Guangzhou University,China,301-400
+Heinrich Heine University Duesseldorf,Germany,301-400
+Hong Kong Baptist University,"Hong Kong, China",301-400
+HSE University,Russia,301-400
+Huazhong Agricultural University,China,301-400
+Iowa State University,United States,301-400
+Jiangsu University,China,301-400
+Juraj Dobrila University of Pula,Croatia,301-400
+Lahore University of Management Sciences,Pakistan,301-400
+Leiden University,Netherlands,301-400
+Lincoln University,New Zealand,301-400
+London School of Hygiene & Tropical Medicine,United Kingdom,301-400
+Massey University,New Zealand,301-400
+Nanjing University of Information Science & Technology,China,301-400
+Nanjing University of Science and Technology,China,301-400
+National Autonomous University of Mexico,Mexico,301-400
+North China Electric Power University,China,301-400
+Northeastern University (Boston),United States,301-400
+Norwegian University of Life Sciences,Norway,301-400
+Oregon State University,United States,301-400
+Osaka University,Japan,301-400
+Pantheon-Sorbonne University (Paris 1),France,301-400
+Paris-Saclay University,France,301-400
+Prague University of Economics and Business,Czech Republic,301-400
+Pusan National University,South Korea,301-400
+Qingdao University,China,301-400
+Radboud University Nijmegen,Netherlands,301-400
+"Royal Holloway, University of London",United Kingdom,301-400
+Rutgers University-Newark,United States,301-400
+Shandong University of Finance and Economics,China,301-400
+Shanghai Maritime University,China,301-400
+Shenzhen University,China,301-400
+Simon Fraser University,Canada,301-400
+"SOAS, University of London",United Kingdom,301-400
+Solent University,United Kingdom,301-400
+South Ural State University,Russia,301-400
+Sultan Qaboos University,Oman,301-400
+Swedish University of Agricultural Sciences,Sweden,301-400
+Swiss Federal Institute of Technology Lausanne,Switzerland,301-400
+Technical University of Berlin,Germany,301-400
+Technion-Israel Institute of Technology,Israel,301-400
+"The University of Newcastle, Australia",Australia,301-400
+The University of Texas at Dallas,United States,301-400
+The University of Texas at San Antonio,United States,301-400
+Tulane University,United States,301-400
+United Arab Emirates University,United Arab Emirates,301-400
+University of Alicante,Spain,301-400
+University of Antwerp,Belgium,301-400
+University of Arkansas at Fayetteville,United States,301-400
+University of Barcelona,Spain,301-400
+University of Bayreuth,Germany,301-400
+University of Bergen,Norway,301-400
+University of Bradford,United Kingdom,301-400
+University of Côte d'Azur,France,301-400
+University of Florence,Italy,301-400
+University of Hamburg,Germany,301-400
+University of Houston,United States,301-400
+University of Johannesburg,South Africa,301-400
+University of Kansas,United States,301-400
+University of Lille,France,301-400
+University of Liverpool,United Kingdom,301-400
+University of Los Andes (Colombia),Colombia,301-400
+University of Montpellier,France,301-400
+University of Naples Federico II,Italy,301-400
+University of Padua,Italy,301-400
+University of Pisa,Italy,301-400
+University of Portsmouth,United Kingdom,301-400
+University of Quebec Montreal,Canada,301-400
+University of Science and Technology of China,China,301-400
+University of South Carolina - Columbia,United States,301-400
+University of Southampton,United Kingdom,301-400
+University of Southern Denmark,Denmark,301-400
+University of Thessaly,Greece,301-400
+University of Twente,Netherlands,301-400
+University of Valencia,Spain,301-400
+University of Victoria,Canada,301-400
+University of Waterloo,Canada,301-400
+University of Wollongong,Australia,301-400
+University of Zaragoza,Spain,301-400
+"Vietnam National University, Hanoi",Vietnam,301-400
+WHU – Otto Beisheim School of Management,Germany,301-400
+Zhejiang Gongshang University,China,301-400
+Zhejiang University of Finance and Economics,China,301-400
+Zhengzhou University,China,301-400
+Babeș-Bolyai University,Romania,401-500
+Beijing Technology and Business University,China,401-500
+Beijing University of Technology,China,401-500
+Bentley University,United States,401-500
+Brandeis University,United States,401-500
+Centro de Investigacion y Docencia Economicas A.C. (CIDE),Mexico,401-500
+Changsha University of Science and Technology,China,401-500
+Chapman University,United States,401-500
+China Agricultural University,China,401-500
+China University of Geosciences,China,401-500
+Claremont McKenna College,United States,401-500
+COMSATS University Islamabad,Pakistan,401-500
+Dublin City University,Ireland,401-500
+Edhec Business School,France,401-500
+ESSEC Business School,France,401-500
+Florida State University,United States,401-500
+Free University of Bozen-Bolzano,Italy,401-500
+Georgia Institute of Technology,United States,401-500
+Gran Sasso Science Institute,Italy,401-500
+Guangdong University of Finance and Economics,China,401-500
+Guangdong University of Foreign Studies,China,401-500
+Harbin Institute of Technology,China,401-500
+Hefei University of Technology,China,401-500
+Hubei University of Economics,China,401-500
+Indian Statistical Institute,India,401-500
+Instituto Tecnologico Autonomo de Mexico,Mexico,401-500
+Istanbul Medeniyet University,Turkey,401-500
+Jiangxi University of Finance & Economics,China,401-500
+Keio University,Japan,401-500
+King Abdulaziz University,Saudi Arabia,401-500
+Koc University,Turkey,401-500
+Korea University,South Korea,401-500
+KTH Royal Institute of Technology,Sweden,401-500
+Laval University,Canada,401-500
+Leuphana University Luneburg,Germany,401-500
+Lille Catholic University,France,401-500
+Linkoping University,Sweden,401-500
+Louisiana State University - Baton Rouge,United States,401-500
+Loyola University Andalusia,Spain,401-500
+Montana State University - Bozeman,United States,401-500
+Nanjing Agricultural University,China,401-500
+Nanjing Normal University,China,401-500
+Ningbo University,China,401-500
+Norwegian University of Science and Technology - NTNU,Norway,401-500
+Polytechnic University of Turin,Italy,401-500
+Reichman University,Israel,401-500
+RWTH Aachen University,Germany,401-500
+Sabanci University,Turkey,401-500
+Scuola Superiore Sant'Anna,Italy,401-500
+Shanghai University,China,401-500
+ShanghaiTech University,China,401-500
+Shih Chien University,"Taiwan, China",401-500
+South China University of Technology,China,401-500
+Stellenbosch University,South Africa,401-500
+Stony Brook University,United States,401-500
+Swansea University,United Kingdom,401-500
+The Hang Seng University of Hong Kong,"Hong Kong, China",401-500
+The University of Alabama - Tuscaloosa,United States,401-500
+The University of Auckland,New Zealand,401-500
+The University of Texas at Arlington,United States,401-500
+Tianjin University of Finance and Economics,China,401-500
+Universitat Jaume I,Spain,401-500
+Universite de la Manouba,Tunisia,401-500
+University of Aberdeen,United Kingdom,401-500
+University of Cantabria,Spain,401-500
+University of Colorado at Denver,United States,401-500
+University of Erlangen-Nuremberg,Germany,401-500
+University of Freiburg,Germany,401-500
+University of Ghana,Ghana,401-500
+University of Granada,Spain,401-500
+University of Greenwich,United Kingdom,401-500
+University of Hohenheim,Germany,401-500
+University of Innsbruck,Austria,401-500
+University of Jena,Germany,401-500
+University of Kent,United Kingdom,401-500
+University of Konstanz,Germany,401-500
+University of Macau,"Macau, China",401-500
+University of Milano-Bicocca,Italy,401-500
+University of Missouri - Columbia,United States,401-500
+University of Murcia,Spain,401-500
+"University of Natural Resources and Life Sciences, Vienna",Austria,401-500
+University of Nottingham Ningbo China,China,401-500
+University of Oklahoma - Norman,United States,401-500
+University of Oldenburg,Germany,401-500
+University of Otago,New Zealand,401-500
+University of Potsdam,Germany,401-500
+University of Sao Paulo,Brazil,401-500
+University of Sharjah,United Arab Emirates,401-500
+University of Talca,Chile,401-500
+University of Tehran,Iran,401-500
+University of the Basque Country,Spain,401-500
+University of the Witwatersrand,South Africa,401-500
+University of Tuebingen,Germany,401-500
+University of Ulm,Germany,401-500
+University of Vigo,Spain,401-500
+Ural Federal University,Russia,401-500
+Washington State University,United States,401-500
+West University of Timisoara,Romania,401-500
+Zayed University,United Arab Emirates,401-500
+Zhejiang University of Technology,China,401-500
